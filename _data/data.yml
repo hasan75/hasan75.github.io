@@ -197,7 +197,7 @@ publications:
 
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     + <b>Language:</b> C, C++, Java, Python, Javascript, Swift, Objective-C
